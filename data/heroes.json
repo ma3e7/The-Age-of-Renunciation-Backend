@@ -1,105 +1,105 @@
 [
     {
         "hero_name": "Veridia: The Sovereign of Shadow",
-        "description": "Veridia is the embodiment of dark nobility and a high-ranking commander within the ruthless Crimson Empire...",
+        "description": "Veridia completes the forbidden ritual, causing the ancient Obsidian Sigil beneath her to burst forth in a searing circle of void energy. From this circle, she manifests a towering, rotating barrier of razor-sharp purple shards. This Runic Aegis absorbs incoming magical and physical attacks, while simultaneously retaliating against adjacent foes with concussive force. While standing within the circle, Veridia's casting speed and defense are dramatically enhanced.",
         "abilities": [
             {
                 "ability_name": "Runic Aegis of the Obsidian Circle",
-                "ability_description": "Veridia completes the forbidden ritual, causing the ancient Obsidian Sigil beneath her to burst forth in a searing circle of void energy..."
+                "ability_description": "Veridia completes the forbidden ritual, causing the ancient Obsidian Sigil beneath her to burst forth in a searing circle of void energy. From this circle, she manifests a towering, rotating barrier of razor-sharp purple shards. This Runic Aegis absorbs incoming magical and physical attacks, while simultaneously retaliating against adjacent foes with concussive force. While standing within the circle, Veridia's casting speed and defense are dramatically enhanced."
             },
             {
                 "ability_name": "Shadow Tempest",
-                "ability_description": "Harnessing the turbulent atmosphere of the Shadowlands, Veridia unleashes a devastating, channeled assault..."
+                "ability_description": "Harnessing the turbulent atmosphere of the Shadowlands, Veridia unleashes a devastating, channeled assault. She projects a torrent of dark, serrated fragments held together by concentrated purple lightning. The tempest wraps around her, providing temporary cover, before lunging forward as a single, devastating stream. It rips through targets, leaving behind a residual electrical charge that weakens and slows affected enemies."
             },
             {
                 "ability_name": "Voidspiral Convergence",
-                "ability_description": "Veridia summons a swirling vortex of raw void energy, pulling debris, shadows, and arcane essence toward her hand..."
+                "ability_description": "Veridia summons a swirling vortex of raw void energy, pulling debris, shadows, and arcane essence toward her hand. The spiral grows in power with each passing second, warping the air and distorting reality itself. When unleashed, it releases a shockwave of purple force that tears through armor and shatters magical defenses. The longer Veridia sustains the spiral, the more devastating the final eruption becomes."
             },
             {
                 "ability_name": "Eclipsed Serpent Manifestation",
-                "ability_description": "Channeling her connection to the forbidden runic circle, Veridia materializes a colossal serpent made of pure umbral energy..."
+                "ability_description": "Channeling her connection to the forbidden runic circle, Veridia materializes a colossal serpent made of pure umbral energy. The spectral creature lashes out with fangs crackling with runic lightning, capable of phasing through solid matter to strike directly at an enemy’s life essence. The serpent coils protectively around Veridia, granting her increased resistance to magical assaults while it hunts her foes with predatory precision."
             },
             {
                 "ability_name": "Hydra of the Endless Night",
-                "ability_description": "Veridia ascends into a state of transcendence, becoming the living conduit of the ancient sigil beneath her..."
+                "ability_description": "Veridia ascends into a state of transcendence, becoming the living conduit of the ancient sigil beneath her. From the ritual circle bursts a titanic hydra of voidfire, each of its heads roaring with destructive power. The hydra simultaneously assaults multiple enemies, unleashing beams of anti-light that unravel enchantments and disintegrate matter. At full manifestation, Veridia and the hydra merge in purpose, creating an unstoppable storm of arcane devastation that dominates the battlefield."
             }
         ]
     },
     {
         "hero_name": "Tarik: The Runeblade Warden",
-        "description": "Tarik is a formidable warrior of the Northern Clans, distinguished by his immense strength and discipline...",
+        "description": "Tarik is a formidable warrior of the Northern Clans, distinguished by his immense strength and discipline and his mastery over the elemental runes of protection and binding. He imbues his heavy plate with Azure Runes (the Blue Glow), granting him enhanced defense and the ability to momentarily freeze or slow his opponents. He is a steadfast loyalist, a bulwark against chaotic incursions, symbolizing uncompromising duty.",
         "abilities": [
             {
                 "ability_name": "Thunderous Strike",
-                "ability_description": "Tarik calls down celestial lightning to strike his massive hammer..."
+                "ability_description": "Tarik calls down celestial lightning to strike his massive hammer, sheathing it in plasma energy. He gathers all his strength and cleaves the hammer into the ground, creating a seismic shockwave mixed with concentrated electrical energy. The impact launches nearby enemies into the air, leaving behind a short-lived, searing field that deals continuous lightning damage."
             },
             {
                 "ability_name": "Celestial Invocation",
-                "ability_description": "Tarik raises his hammer to the heavens, opening a temporary portal..."
+                "ability_description": "Tarik raises his hammer to the heavens, opening a temporary portal from which a flash of pure divine lightning descends. The bolt charges Tarik's armor, momentarily transforming it into a lightning-infused shell that deflects attacks and automatically strikes close targets with tendrils of electrical current. The invocation also creates a circle of floating runic hammers that orbit him, protecting him from incoming projectiles."
             },
             {
                 "ability_name": "Runic Storm Shield",
-                "ability_description": "Tarik slams his hammer to the ground and channels the power of the runic circle beneath him..."
+                "ability_description": "Tarik slams his hammer to the ground and channels the power of the runic circle beneath him into a gigantic, rotating ring of pure thunder energy. This ring serves not only as a powerful barrier that nullifies area damage and magical assaults but also pulses, sending out waves of repulsive force. Above Tarik, a spectral replica of his hammer hovers, continuously firing beams of focused lightning inside the ring."
             },
             {
                 "ability_name": "Thunderous Transition",
-                "ability_description": "Tarik embraces the storm, allowing lightning to engulf him..."
+                "ability_description": "Tarik embraces the storm, allowing lightning to engulf him. He lets his hammer levitate overhead as he enters a state of temporary immateriality, becoming pure plasma and phasing out of all incoming damage. While in this state, he projects and controls small, glowing hammers that pulse with electrical energy, automatically seeking and disorienting enemies in range. Upon completion, Tarik reverts to physical form with an explosive burst of force."
             },
             {
                 "ability_name": "Aspect of the Thunder Hydra",
-                "ability_description": "As the culmination of Tarik's storm mastery, he summons a spectral, colossal thunder hydra..."
+                "ability_description": "As the culmination of Tarik's storm mastery, he summons a spectral, colossal thunder hydra directly from the runic circle. This is a pure manifestation of elemental furious power, with Tarik serving as the focal point. Each of the hydra's heads independently assaults targets with destructive lightning beams and electrical breath. Tarik remains unharmed and in full control, and the hydra safeguards the area around him, providing massive damage and defensive capabilities. Victory is assured as long as Tarik is able to maintain his focus."
             }
         ]
     },
     {
         "hero_name": "Volkan: The Forged Will",
-        "description": "Volkan is a master of the flame, a warrior whose very existence feels like an impending eruption...",
+        "description": "Volkan is a master of the flame, a warrior whose very existence feels like an impending eruption. His armor is spiritually bonded, imbued with the volatile power of a mountain volcano. His Blazing Runes (the Yellow-Gold Glow) channel raw elemental fire, allowing him to incinerate enemies or create walls of pure heat. Volkan serves as the enforcer for those who believe in forging a stronger world through trial by fire.",
         "abilities": [
             {
                 "ability_name": "Shattering Sun-Fist",
-                "ability_description": "Volkan channels pure solar fire and seismic power directly into his armored gauntlet..."
+                "ability_description": "Volkan channels pure solar fire and seismic power directly into his armored gauntlet. He unleashes a focused, concussive blast of golden-orange energy that obliterates physical barriers and stuns targets with its tremendous force. The impact is so intense it causes the ground beneath him to crackle with residual electrical energy. This ability excels at single-target disruption and breaking enemy formations."
             },
             {
                 "ability_name": "Ancient Rune-Shield Wall",
-                "ability_description": "Volkan plunges his connection to the fiery rune-circle beneath him..."
+                "ability_description": "Volkan plunges his connection to the fiery rune-circle beneath him, instantly manifesting a massive, towering shield of solidified flame and etched runes. This fiery barrier provides absolute defense against both incoming projectiles and powerful magical assaults. The runes on the shield continuously discharge searing heat, damaging any melee attacker who dares to strike it. The shield is sustained by his unwavering resolve and the ancient power of the circle."
             },
             {
                 "ability_name": "Seismic Hammer of the Forge",
-                "ability_description": "Wielding his colossal, rune-engraved hammer, Volkan slams it down..."
+                "ability_description": "Wielding his colossal, rune-engraved hammer, Volkan slams it down with earth-shattering force. The impact unleashes a devastating shockwave of fiery energy that spreads outward from the rune-circle. The hammer itself crackles with molten, internalized power, capable of crushing heavy armor and causing enemies in the affected area to be knocked down and suffer severe burn damage. This is a primary crowd-control and AoE (Area of Effect) attack."
             },
             {
                 "ability_name": "Pyre of the Obsidian Rites",
-                "ability_description": "Volkan assumes a ritualistic stance, drawing raw, chaotic fire from the heart of the earth..."
+                "ability_description": "Volkan assumes a ritualistic stance, drawing raw, chaotic fire from the heart of the earth through the runic circle. A towering vortex of superheated flame erupts above him, from which four floating, scorching runes are summoned. This channeled power grants Volkan immense regenerative properties and temporarily enhances the damage of his fire-based attacks, making him an unstoppable engine of destruction. The runes hover as protective sentinels."
             },
             {
                 "ability_name": "The Ascension: Fury of Volkanus",
-                "ability_description": "Volkan taps into the ultimate power of the runic sigil, ascending from the ground..."
+                "ability_description": "Volkan taps into the ultimate power of the runic sigil, ascending from the ground in a pillar of blinding lightning and golden fire. He is surrounded by a halo of swirling, electrical runes that orbit him like protective rings. This ultimate manifestation causes the entire battlefield to be wracked by a continuous torrent of focused lightning and catastrophic explosions, dealing massive damage to all foes. Volkan becomes invulnerable while channeling this pure, elemental devastation."
             }
         ]
     },
     {
         "hero_name": "Kaelus: The Ascended Shell",
-        "description": "Little is known of the entity called Kaelus. It is believed to be a vessel of an ancient spirit or a Golem...",
+        "description": "Little is known of the entity called Kaelus. It is believed to be a vessel of an ancient spirit or a Golem animated by a catastrophic surge of pure arcane power. Its armor is a relic, inscribed with thousands of Ethereal Runes (the Bright Blue Glow) that pulse with residual cosmic energy. Kaelus possesses no voice, and its purpose is veiled in prophecy, driven by a logic far beyond mortal comprehension.",
         "abilities": [
             {
                 "ability_name": "Rune-Wrought Bulwark",
-                "ability_description": "Kaelus manifests a colossal, glowing shield forged from pure lightning..."
+                "ability_description": "Kaelus manifests a colossal, glowing shield forged from pure lightning and inscribed with Norse runes. This Aethel-Shield is incredibly resilient, deflecting incoming projectiles and magic. He can project smaller versions of the bulwark to protect allies or use them to strike adjacent enemies with a concussive, electric force. The central shield provides Kaelus with a significant increase in physical defense and damage reflection."
             },
             {
                 "ability_name": "Star-Hammer Strike",
-                "ability_description": "Kaelus channels his runic power into a massive, star-shaped spectral hammer..."
+                "ability_description": "Kaelus channels his runic power into a massive, star-shaped spectral hammer. With a mighty swing, he slams the hammer into the ground, unleashing a localized shockwave of intense blue lightning and arcane force. This attack not only deals massive damage to enemies in a cone but also briefly stuns them, leaving behind fractured runes that continue to electrocute the affected area for a short duration."
             },
             {
                 "ability_name": "Storm-Blade Barrage",
-                "ability_description": "Kaelus conjures a swirling vortex of glowing, runic daggers that orbit him..."
+                "ability_description": "Kaelus conjures a swirling vortex of glowing, runic daggers that orbit him at immense speed. These blades provide both offense and defense, intercepting incoming attacks while simultaneously lashing out at nearby foes. He can launch the entire circle of daggers forward as a powerful, piercing wave, or maintain the orbit to continuously shred enemies within melee range. Each hit applies a stack of 'Static Charge'."
             },
             {
                 "ability_name": "Viking's Aegis Ring",
-                "ability_description": "Kaelus raises his runic shield, which is immediately encircled by a rapidly spinning ring of pure azure energy..."
+                "ability_description": "Kaelus raises his runic shield, which is immediately encircled by a rapidly spinning ring of pure azure energy. This ring creates a temporary zone of high-frequency lightning, destroying non-magical projectiles and rapidly draining the energy of any magical shield it passes through. Kaelus can thrust the shield forward, projecting the ring to damage distant targets and push them back with overwhelming electric force."
             },
             {
                 "ability_name": "Thunderclap Eruption",
-                "ability_description": "Focusing the energy of the Obsidian Circle beneath him, Kaelus slams his fist into the ground..."
+                "ability_description": "Focusing the energy of the Obsidian Circle beneath him, Kaelus slams his fist into the ground, triggering an explosive burst of electrical energy and razor-sharp spectral shards. The eruption shatters the earth, dealing immense damage in a radius, knocking down enemies, and leaving behind a pool of residual lightning. This ability is a devastating finisher that consumes all 'Static Charge' stacks on enemies for bonus damage."
             }
         ]
     }
