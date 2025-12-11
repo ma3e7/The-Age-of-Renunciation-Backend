@@ -7,7 +7,9 @@ urlpatterns = [
     path('users/signup/', auth_views.signup),
     path('users/signin/', auth_views.signin),
     path('users/signout/', auth_views.signout),
+    path('users/me/', views.current_user),
     path('users/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
+    
 
     path('users/profile/', views.update_profile),
 

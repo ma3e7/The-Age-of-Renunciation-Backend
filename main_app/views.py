@@ -4,13 +4,15 @@ from rest_framework.response import Response
 from .models import Hero, Ability
 from .serializers import HeroSerializer, AbilitySerializer, GameUserSerializer
 
-@api_view(['GET'])
+
+@api_view(["GET"])
 @permission_classes([AllowAny])
 def all_heroes(request):
     heroes = Hero.objects.all()
     return Response(HeroSerializer(heroes, many=True).data)
 
-@api_view(['GET'])
+
+@api_view(["GET"])
 @permission_classes([AllowAny])
 def single_hero(request, id):
     try:
@@ -19,13 +21,15 @@ def single_hero(request, id):
         return Response({"error": "Hero not found"}, status=404)
     return Response(HeroSerializer(hero).data)
 
-@api_view(['GET'])
+
+@api_view(["GET"])
 @permission_classes([AllowAny])
 def hero_abilities(request, hero_id):
     abilities = Ability.objects.filter(hero_id=hero_id)
     return Response(AbilitySerializer(abilities, many=True).data)
 
-@api_view(['PUT', 'PATCH'])
+
+@api_view(["PUT", "PATCH"])
 @permission_classes([IsAuthenticated])
 def update_profile(request):
     user = request.user
@@ -43,3 +47,11 @@ def update_profile(request):
         user.achievements = achievements
     user.save()
     return Response(GameUserSerializer(user).data)
+
+
+@api_view(["GET"])
+@permission_classes([AllowAny])
+def current_user(request):
+    user = request.user
+    serializer = GameUserSerializer(user)
+    return Response(serializer.data)

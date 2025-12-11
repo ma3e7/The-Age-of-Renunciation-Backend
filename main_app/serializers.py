@@ -17,5 +17,5 @@ class HeroSerializer(serializers.ModelSerializer):
 class GameUserSerializer(serializers.ModelSerializer):
     class Meta:
         model = GameUser
-        fields = ['id', 'name', 'hours_played', 'achievements', 'created_at']
-        read_only_fields = ['id', 'created_at']
+        fields = ['id', 'name', 'hours_played', 'achievements']
+        read_only_fields = ['id']
